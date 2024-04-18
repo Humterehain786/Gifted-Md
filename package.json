@@ -1,4 +1,4 @@
-{
+to{
     "name": "Zaman Janjua",
     "version": "2.5.0",
     "description": "Multi device NodeJs Whatsapp Bot by Zaman Janjua",
@@ -6,10 +6,10 @@
     "type": "commonjs",
     "scripts": {
         "run": "pm2 start . --deep-monitoring --attach --name Zaman || node .",
-        "start": "pm2 start . --attach --name Gifted",
-        "stop": "pm2 stop Gifted"
+        "start": "pm2 start . --attach --name ZAMAN",
+        "stop": "pm2 stop ZAMAN"
     },
-    "author": "GiftedTech",
+    "author": "ZAMAN JANJUA",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^9.1.4",
