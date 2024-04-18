@@ -1,6 +1,6 @@
 {
   "name": "gifted-md @v.2.5.0",
-  "description": "Multi device NodeJs Whatsapp Bot by GiftedTech",
+  "description": "Multi device NodeJs Whatsapp Bot by ZAMAN JANJUA",
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
   "keywords": "Gifted",
   "success_url": "",
@@ -28,7 +28,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner Name",
-      "value": "Gifted Tech",
+      "value": "ZAMAN JANJUA",
       "required": true
     },
 
