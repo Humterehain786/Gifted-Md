@@ -1,11 +1,11 @@
 {
-    "name": "Gifted-Md",
+    "name": "Zaman Janjua",
     "version": "2.5.0",
-    "description": "Multi device NodeJs Whatsapp Bot by GiftedTech",
+    "description": "Multi device NodeJs Whatsapp Bot by Zaman Janjua",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
-        "run": "pm2 start . --deep-monitoring --attach --name Gifted || node .",
+        "run": "pm2 start . --deep-monitoring --attach --name Zaman || node .",
         "start": "pm2 start . --attach --name Gifted",
         "stop": "pm2 stop Gifted"
     },
