@@ -1,5 +1,5 @@
 {
-  "name": ZAMAN JANJUA@v.2.5.0",
+  "name": ZAMAN JANJUA @v.2.5.0",
   "description": "Multi device NodeJs Whatsapp Bot by ZAMAN JANJUA",
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
   "keywords": "ZAMAN JANJUA",
@@ -26,24 +26,24 @@
       "required": false,
       "value": "online"
     },
-    "OWNER_NAME": {ZAMAN JANJUA 
+    "OWNER_NAME": { ZAMAN JANJUA 
       "description": "Owner Name",
       "value": "ZAMAN JANJUA",
       "required": true
     },
 
-    "WELCOME": {ZAMAN JANJUA 
+    "WELCOME": { ZAMAN JANJUA 
       "description": "Welcome Message",
       "value": "false",
       "required": false
     },
 
-    "GOODBYE": {ZAMAN JANJUA 
+    "GOODBYE": { ZAMAN JANJUA 
       "description": "Goodbye Message",
       "value": "false",
       "required": false
     },
-    "BOT_NAME": {ZAMAN JANJUA 
+    "BOT_NAME": { ZAMAN JANJUA 
       "description": "Bot Name",
       "required": false,
       "value": "ɢɪғᴛᴇᴅ-ᴍᴅ"
