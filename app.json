@@ -1,8 +1,8 @@
 {
-  "name": "gifted-md @v.2.5.0",
+  "name": ZAMAN JANJUA@v.2.5.0",
   "description": "Multi device NodeJs Whatsapp Bot by ZAMAN JANJUA",
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
-  "keywords": "Gifted",
+  "keywords": "ZAMAN JANJUA",
   "success_url": "",
   "app_url": "/qr/",
 
@@ -26,24 +26,24 @@
       "required": false,
       "value": "online"
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": {ZAMAN JANJUA 
       "description": "Owner Name",
       "value": "ZAMAN JANJUA",
       "required": true
     },
 
-    "WELCOME": {
+    "WELCOME": {ZAMAN JANJUA 
       "description": "Welcome Message",
       "value": "false",
       "required": false
     },
 
-    "GOODBYE": {
+    "GOODBYE": {ZAMAN JANJUA 
       "description": "Goodbye Message",
       "value": "false",
       "required": false
     },
-    "BOT_NAME": {
+    "BOT_NAME": {ZAMAN JANJUA 
       "description": "Bot Name",
       "required": false,
       "value": "ɢɪғᴛᴇᴅ-ᴍᴅ"
@@ -51,7 +51,7 @@
     "USER_IMAGES": {
       "description": "Image for bot",
       "required": false,
-      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+      "value": "https://www.facebook.com/share/NgQtt5qgDve4ZHhn/?mibextid=TrneLp"
     },
     "TZ": {
       "description": "Don't change if you dont know your location.",
